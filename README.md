@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Enku Girma</h1>
-<h3 align="center">A Software Engineer From Ethiopia</h3>  <img align=“right” alt=“coding” width=“400” src=“https://miro.medium.com/v2/resize:fit:1400/1*kIacWWXjfYBFXqIXhIuCXQ.gif”>
+<h3 align="center">A Software Engineer From Ethiopia</h3>  
+<img align="right" alt="coding" width="400" src="https://miro.medium.com/v2/resize:fit:1400/1*kIacWWXjfYBFXqIXhIuCXQ.gif">
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
